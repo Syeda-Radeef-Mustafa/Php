@@ -1,0 +1,40 @@
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+ 
+  }
+  
+.card3 {
+    border: none;
+    padding: 20px;
+ 
+}
+
+.card3 img{
+    padding-left: 20px;
+    padding-bottom: 30px;
+}
+.rev2 i{
+    color: #e9a426;
+   }
+
+.card3 h3{
+     color: #075999;
+     font-size: 30px;
+   }
+.col-lg-12 h1{
+  padding-top: 50px;
+  color: rgb(249, 249, 250);
+
+}
+.test1{
+  background-color:#075999;
+  height: 150px;
+ 
+}
+.col-lg-12{
+  padding-top: 5px;
+  text-align: center;
+}

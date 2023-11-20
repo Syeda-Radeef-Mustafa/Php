@@ -1,0 +1,41 @@
+
+.whats-us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-color: #1d64b1;
+}
+  .whats-text6 h1{
+    color: #f5f1f1;
+    font-size: 90px;
+  }
+  
+  .whats-text h2 {
+    font-size: 50px;
+    color:#f2f5f7;
+    font-size: 40px;
+  }
+  
+  .whats-image {
+    text-align: center;
+    text-align: right;
+    margin-right: 60px;
+
+  }
+  
+  .whats-image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .shop-now-button {
+    background-color: #f6f8fa;
+    border-radius: 40px;
+    color: #080808;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+  }
+  

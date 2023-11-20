@@ -1,0 +1,73 @@
+
+.message-box1 {
+    display: flex;
+    align-items: center;
+    padding-top: 80px;
+    border-radius: 50px;
+    border-color: black;
+  }
+  
+  .message-box1 input {
+    padding: 10px;
+    border-radius: 50px;
+    margin-right: 10px;
+    width: 75%;
+  }
+  
+  .message-box1 button {
+    background: #075999;
+    color: rgb(250, 246, 246);
+    border: 30px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .content h2{
+    padding-top: 60px;
+    padding-left: 100px;
+    color: #075999;
+  }
+  
+  .content p{
+    color: black;
+    padding-left: 100px;
+    font-size: 20px;
+  }
+/* styles.css */
+.random {
+  padding: 10px;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  width: 100%;
+}
+
+.random p{
+  padding-bottom: 20px;
+  padding-right: 120px;
+}
+
+.random li{
+  padding-right:40px;
+  list-style-type: none;
+}
+
+.random i{
+  padding-right: 30px;
+}
+.random1 {
+  padding: 10px;
+  text-align: center;
+  padding-top: 220px;
+  font-size: 20px;
+  display: flex;
+  position: absolute;
+  width: 100%;
+}
+
+.random1 i{
+  padding-left: 10px;
+}

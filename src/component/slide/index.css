@@ -1,0 +1,36 @@
+.slider-button {
+    color: #075999;
+    border-color: #075999 ;
+    border-radius: 100%;
+    margin: 0 10px;
+    font-size: 20px;
+
+}
+
+.navigation {
+    padding-left: 1190px;
+}
+
+.card1 {
+    border: none;
+    padding: 20px;
+ 
+}
+
+.card1 img{
+    padding-left: 50px;
+    padding-bottom: 30px;
+}
+
+  .rev span{
+    margin-left: 180px;
+   }
+
+   .rev1 i{
+    color: #e9a426;
+   }
+
+   .card1 h3{
+     color: #075999;
+     font-size: 30px;
+   }

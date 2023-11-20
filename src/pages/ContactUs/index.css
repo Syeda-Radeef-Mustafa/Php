@@ -1,0 +1,54 @@
+.test7{
+  background-color:#075999;
+  height: 150px;
+}
+.test7 h1{
+  text-align: center;
+  padding-top: 50px;
+  color: rgb(246, 250, 253);
+}
+
+
+.contact-container {
+  padding-top: 1px;
+}
+
+form.contact {
+  max-width: 600px; 
+  margin: 0 auto;
+}
+
+input.contact[type="text"],
+input.contact[type="email"],
+input.contact[type="tel"],
+textarea.contact {
+  width: 100%; 
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 2px solid #ccc;
+  border-radius: 30px;
+  font-size: 16px;
+  outline: none;
+}
+
+textarea.contact {
+  height: 100px;
+}
+
+input.contact[type="submit"] {
+  background-color: #075999;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.space {
+  padding-top: 25px;
+}
+
+.button-space {
+  text-align: left;
+}

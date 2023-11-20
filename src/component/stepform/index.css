@@ -1,0 +1,73 @@
+/* Add this CSS to your styles.css or a separate CSS file */
+
+.app-stepform {
+  width: 60%;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  padding-top: 50px;
+
+}
+
+.form-step {
+  background: #f7f7f7;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.field {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.form-button {
+  background: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.form-button:hover {
+  background: #0056b3;
+}
+
+.display-form-data {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f9f9f9;
+}
+
+.display-form-data h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.display-form-data ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.display-form-data li {
+  margin-bottom: 10px;
+}
+
+.display-form-data li strong {
+  font-weight: bold;
+}
+
+/* Style the nested list for each form data entry */
+.display-form-data ul ul {
+  margin-left: 20px;
+}
+
+.display-form-data ul ul li {
+  margin-bottom: 5px;
+}

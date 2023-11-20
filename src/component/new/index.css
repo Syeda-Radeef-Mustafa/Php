@@ -1,0 +1,55 @@
+.slider-button {
+    background-color: transparent;
+    color: #075999;
+    border-color: #075999 ;
+    border-radius: 100%;
+    margin: 0 10px;
+    font-size: 20px;
+
+}
+
+.navigation {
+    padding-left: 1190px;
+}
+
+.card2 {
+    border: none;
+    padding: 20px;
+ 
+}
+
+.card2 img{
+    padding-left: 130px;
+}
+
+.in-stock-label {
+    margin-left: 10px;
+    border-radius: 10px;
+  }
+  
+  .checkmark {
+    font-size: 18px;
+    margin-left: 5px;
+  }
+  
+  .rev span{
+   margin-left: 180px;
+   padding-top: 15px;
+  }
+
+  .card2 h3{
+    color: #002956;
+    font-size: 30px;
+  }
+
+  .container h2{
+    text-align: center;
+    padding-top: 50px;
+  }
+
+.price {
+  color: #002956;
+}
+.rev1 i{
+  padding-left: 10px;
+}

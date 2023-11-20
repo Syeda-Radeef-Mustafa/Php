@@ -1,0 +1,99 @@
+/* Custom CSS for DivideColLg12 */
+
+/* Style for the container */
+.container123 {
+    padding-top: 5px;
+  }
+  
+  /* Style for the left column */
+  .col-lg-3 {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  /* Style for the heading in the left column */
+  .col-lg-3 h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Style for text in the left column */
+  .col-lg-3 p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Style for the right column */
+  .col-lg-9 {
+    padding: 20px;
+  }
+  
+  /* Style for the heading in the right column */
+  .col-lg-9 h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Style for the image in the right column */
+  .col-lg-9 img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Style for text in the right column */
+  .col-lg-9 p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .col-lg-3 {
+      width: 100%;
+    }
+  
+    .col-lg-9 {
+      width: 100%;
+    }
+  }
+  .test3{
+    background-color:#075999;
+    height: 150px;
+    width: 100%;
+  }
+  .test3 h1{
+    text-align: center;
+    color: #fcfafa;
+    padding-top: 50px;
+  }
+.col-lg-3 {
+    text-align: left;
+}
+
+.col-lg-3 h4 {
+    padding-top: 20px;
+}
+
+.price-slider input {
+    padding: 5px;
+}
+
+.check {
+    padding: 5px;
+}
+
+.check label {
+    padding-left: 5px;
+}
+
+.price-slider input {
+    padding: 5px;
+}
+
+.price-slide {
+    padding-top: 10px;
+}
